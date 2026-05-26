@@ -1,0 +1,14 @@
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\Laba1.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\Laba1.AssemblyInfo.cs
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\bin\Debug\net10.0\Laba1.exe
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\bin\Debug\net10.0\Laba1.deps.json
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\bin\Debug\net10.0\Laba1.runtimeconfig.json
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\bin\Debug\net10.0\Laba1.dll
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\bin\Debug\net10.0\Laba1.pdb
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\Laba1.dll
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\refint\Laba1.dll
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\Laba1.pdb
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\Laba1.genruntimeconfig.cache
+C:\Users\Acer Nitro\RiderProjects\Laba1\Laba1\obj\Debug\net10.0\ref\Laba1.dll
