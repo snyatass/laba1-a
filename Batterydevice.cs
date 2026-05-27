@@ -1,4 +1,5 @@
-﻿namespace Laba1;
+﻿using Laba1.Interfaces;
+namespace Laba1;
 
 public abstract class BatteryDevice : Device, IBatteryPowerable
 {

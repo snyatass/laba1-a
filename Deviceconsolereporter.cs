@@ -15,7 +15,7 @@ public static class DeviceConsoleReporter
             else if (device is Laptop l && l.IsActiveUps() && !l.IsMainPowerOn)
                 powerStatus = "Так (від ДБЖ)";
             else if (device.IsMainPowerOn) 
-                powerStatus = "Так (від мережі 220V)";
+                powerStatus = "Так (від мережі)";
             else
                 powerStatus = "Так (від акумулятора)";
         }

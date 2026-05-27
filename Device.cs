@@ -1,4 +1,4 @@
-﻿
+﻿using Laba1.Interfaces;
 namespace Laba1;
 
 public abstract class Device :
